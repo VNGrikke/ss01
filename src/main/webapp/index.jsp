@@ -15,7 +15,7 @@
 <h1><a href="error-sevlet">Bai 5</a></h1>
 <h1><a href="register.html">Bai 6</a></h1>
 <h1><a href="ListStudentServlet">Bai 7</a></h1>
-<h1><a href="todoServlet">Bai 8</a></h1>
+<h1><a href="todoList.jsp">Bai 8</a></h1>
 
 
 </body>
